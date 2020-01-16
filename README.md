@@ -1,4 +1,4 @@
-# pig_game
+# pig_game (https://blank-27.github.io/pig-game/)
 ### game_play
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
 
